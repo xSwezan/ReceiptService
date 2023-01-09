@@ -1,5 +1,5 @@
 {
-	"name": "ModuleName",
+	"name": "ReceiptService",
 	"servePlaceIds": [],
 	"tree": {
 		"$className": "DataModel",
